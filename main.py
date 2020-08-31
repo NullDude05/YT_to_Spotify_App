@@ -7,7 +7,7 @@ import spotipy.util as util
 import search
 
 # User ID: 
-username = ''
+username = 'this can be your spotify username'
 playlistid = ''
 songid = ''
 songs = []
